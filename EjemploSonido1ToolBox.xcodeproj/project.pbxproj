@@ -14,6 +14,7 @@
 		2FC315EC1C28B4B9008527A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC315EA1C28B4B9008527A5 /* LaunchScreen.storyboard */; };
 		2FC315F71C28B4B9008527A5 /* EjemploSonido1ToolBoxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC315F61C28B4B9008527A5 /* EjemploSonido1ToolBoxTests.swift */; };
 		2FC316021C28B4B9008527A5 /* EjemploSonido1ToolBoxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC316011C28B4B9008527A5 /* EjemploSonido1ToolBoxUITests.swift */; };
+		2FC316101C28B64C008527A5 /* Ping.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 2FC3160F1C28B64C008527A5 /* Ping.aiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2FC315FD1C28B4B9008527A5 /* EjemploSonido1ToolBoxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EjemploSonido1ToolBoxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FC316011C28B4B9008527A5 /* EjemploSonido1ToolBoxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EjemploSonido1ToolBoxUITests.swift; sourceTree = "<group>"; };
 		2FC316031C28B4B9008527A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FC3160F1C28B64C008527A5 /* Ping.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Ping.aiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		2FC315E01C28B4B8008527A5 /* EjemploSonido1ToolBox */ = {
 			isa = PBXGroup;
 			children = (
+				2FC3160F1C28B64C008527A5 /* Ping.aiff */,
 				2FC315E11C28B4B8008527A5 /* AppDelegate.swift */,
 				2FC315E31C28B4B9008527A5 /* ViewController.swift */,
 				2FC315E51C28B4B9008527A5 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				2FC315EC1C28B4B9008527A5 /* LaunchScreen.storyboard in Resources */,
 				2FC315E91C28B4B9008527A5 /* Assets.xcassets in Resources */,
 				2FC315E71C28B4B9008527A5 /* Main.storyboard in Resources */,
+				2FC316101C28B64C008527A5 /* Ping.aiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
